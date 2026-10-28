@@ -1,0 +1,582 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-5418523266420217528.comments"
+    },
+    "updated": {
+      "$t": "2026-10-28T03:58:52.785-07:00"
+    },
+    "title": {
+      "type": "text",
+      "$t": "Motivation,Education and Research"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://sulekh194971.blogspot.com/feeds/comments/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/5418523266420217528/comments/default?alt=json&max-results=50"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://sulekh194971.blogspot.com/"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Prof. Sulekh Kumar(Qualified UGC NET DEC-2024 &amp; 2025 for Assistant Professor &amp; Admission to Ph.D. in Computer Science &amp; Application)"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/08588688521541723554"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "31",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoZe0Nhuov63qBERLS3yMLjld6rDFTTgwxUznklMH7cbCATCJds7Psjpw_uqYHYyEknZkFc0QM__cm6dbVjvGWBWDZ_wOmF6VuyYjaJCRkLtnnhWeW0K5FDRBrgsinmKAqJgo33DuRyhVg-fjqzsbME3B7G29Tdnc954Sp_1w_vE5hrVA/s220/WhatsApp_Image_2024-03-26_at_5.10.30_PM-removebg-preview%20(5).png"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "7"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "50"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5418523266420217528.post-2601880076972823151"
+        },
+        "published": {
+          "$t": "2026-10-28T03:58:52.785-07:00"
+        },
+        "updated": {
+          "$t": "2026-10-28T03:58:52.785-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Thank you madhu"
+        },
+        "content": {
+          "type": "html",
+          "$t": "Thank you madhu"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/1903283608309047226/comments/default/2601880076972823151"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/1903283608309047226/comments/default/2601880076972823151"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sulekh194971.blogspot.com/2025/08/the-excuse.html?showComment=1793185132785#c2601880076972823151",
+            "title": ""
+          },
+          {
+            "rel": "related",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/1903283608309047226/comments/default/9062813982691003206"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://sulekh194971.blogspot.com/2025/08/the-excuse.html",
+          "ref": "tag:blogger.com,1999:blog-5418523266420217528.post-1903283608309047226",
+          "source": "http://www.blogger.com/feeds/5418523266420217528/posts/default/1903283608309047226",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-1757796047"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "October 28, 2026 at 3:58 AM"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5418523266420217528.post-683718023274025540"
+        },
+        "published": {
+          "$t": "2026-10-28T03:10:19.842-07:00"
+        },
+        "updated": {
+          "$t": "2026-10-28T03:10:19.842-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Really clarified the point, very well written sir"
+        },
+        "content": {
+          "type": "html",
+          "$t": "Really clarified the point, very well written sir"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/1903283608309047226/comments/default/683718023274025540"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/1903283608309047226/comments/default/683718023274025540"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sulekh194971.blogspot.com/2025/08/the-excuse.html?showComment=1793182219842#c683718023274025540",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://sulekh194971.blogspot.com/2025/08/the-excuse.html",
+          "ref": "tag:blogger.com,1999:blog-5418523266420217528.post-1903283608309047226",
+          "source": "http://www.blogger.com/feeds/5418523266420217528/posts/default/1903283608309047226",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-1757796047"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "October 28, 2026 at 3:10 AM"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5418523266420217528.post-7503732194114455851"
+        },
+        "published": {
+          "$t": "2026-07-31T23:48:06.719-07:00"
+        },
+        "updated": {
+          "$t": "2026-07-31T23:48:06.719-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "This is a very inspiring and thought-provoking blo..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "This is a very inspiring and thought-provoking blog post. I really liked how it emphasizes the importance of maintaining a positive attitude and believing in oneself, even during difficult times. The message that success comes through determination, hard work, and a clear goal is both motivating and practical."
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/5449949777550666552/comments/default/7503732194114455851"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/5449949777550666552/comments/default/7503732194114455851"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sulekh194971.blogspot.com/2026/07/the-positive-attitude-of-life.html?showComment=1785566886719#c7503732194114455851",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Anonymous"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/blank.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://sulekh194971.blogspot.com/2026/07/the-positive-attitude-of-life.html",
+          "ref": "tag:blogger.com,1999:blog-5418523266420217528.post-5449949777550666552",
+          "source": "http://www.blogger.com/feeds/5418523266420217528/posts/default/5449949777550666552",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-1757796047"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "July 31, 2026 at 11:48 PM"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5418523266420217528.post-2457114780146269341"
+        },
+        "published": {
+          "$t": "2026-02-23T04:07:35.581-08:00"
+        },
+        "updated": {
+          "$t": "2026-02-23T04:07:35.581-08:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Absolutely true! When we master emotions, we maste..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "Absolutely true! When we master emotions, we master life."
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/7271736134606867380/comments/default/2457114780146269341"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/7271736134606867380/comments/default/2457114780146269341"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sulekh194971.blogspot.com/2026/02/emotion-weakness-power-and-stability.html?showComment=1771848455581#c2457114780146269341",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Madhu"
+            },
+            "uri": {
+              "$t": "https://www.blogger.com/profile/11046293626551188556"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://sulekh194971.blogspot.com/2026/02/emotion-weakness-power-and-stability.html",
+          "ref": "tag:blogger.com,1999:blog-5418523266420217528.post-7271736134606867380",
+          "source": "http://www.blogger.com/feeds/5418523266420217528/posts/default/7271736134606867380",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-470187174"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "February 23, 2026 at 4:07 AM"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5418523266420217528.post-5090236784582389139"
+        },
+        "published": {
+          "$t": "2025-10-16T23:16:38.783-07:00"
+        },
+        "updated": {
+          "$t": "2025-10-16T23:16:38.783-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Truly Inspiring ✨👌"
+        },
+        "content": {
+          "type": "html",
+          "$t": "Truly Inspiring ✨👌"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/4872431378903217694/comments/default/5090236784582389139"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/4872431378903217694/comments/default/5090236784582389139"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sulekh194971.blogspot.com/2025/10/the-trap-of-nature.html?showComment=1760681798783#c5090236784582389139",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Madhu"
+            },
+            "uri": {
+              "$t": "https://www.blogger.com/profile/11046293626551188556"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://sulekh194971.blogspot.com/2025/10/the-trap-of-nature.html",
+          "ref": "tag:blogger.com,1999:blog-5418523266420217528.post-4872431378903217694",
+          "source": "http://www.blogger.com/feeds/5418523266420217528/posts/default/4872431378903217694",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-470187174"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "October 16, 2025 at 11:16 PM"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5418523266420217528.post-9062813982691003206"
+        },
+        "published": {
+          "$t": "2025-08-26T22:57:31.981-07:00"
+        },
+        "updated": {
+          "$t": "2025-08-26T22:57:31.981-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "This is a very inspiring write-up! It clearly expl..."
+        },
+        "content": {
+          "type": "html",
+          "$t": "This is a very inspiring write-up! It clearly explains how excuses limit our growth and why stepping out of our comfort zone is essential for success. I really liked the point about positive attitude being the key to overcome excuses."
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/1903283608309047226/comments/default/9062813982691003206"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/1903283608309047226/comments/default/9062813982691003206"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sulekh194971.blogspot.com/2025/08/the-excuse.html?showComment=1756274251981#c9062813982691003206",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Madhu"
+            },
+            "uri": {
+              "$t": "https://www.blogger.com/profile/11046293626551188556"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://sulekh194971.blogspot.com/2025/08/the-excuse.html",
+          "ref": "tag:blogger.com,1999:blog-5418523266420217528.post-1903283608309047226",
+          "source": "http://www.blogger.com/feeds/5418523266420217528/posts/default/1903283608309047226",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-470187174"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "August 26, 2025 at 10:57 PM"
+          }
+        ]
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-5418523266420217528.post-2541082517590904418"
+        },
+        "published": {
+          "$t": "2024-08-11T00:02:41.185-07:00"
+        },
+        "updated": {
+          "$t": "2024-08-11T00:02:41.185-07:00"
+        },
+        "title": {
+          "type": "text",
+          "$t": "Very good"
+        },
+        "content": {
+          "type": "html",
+          "$t": "Very good"
+        },
+        "link": [
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/7042374968521645793/comments/default/2541082517590904418"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/5418523266420217528/7042374968521645793/comments/default/2541082517590904418"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://sulekh194971.blogspot.com/2023/10/life-is-nothing-but-time.html?showComment=1723359761185#c2541082517590904418",
+            "title": ""
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Dr. Shamsher Alam"
+            },
+            "uri": {
+              "$t": "https://www.blogger.com/profile/15835056930557168957"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "thr$in-reply-to": {
+          "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+          "href": "https://sulekh194971.blogspot.com/2023/10/life-is-nothing-but-time.html",
+          "ref": "tag:blogger.com,1999:blog-5418523266420217528.post-7042374968521645793",
+          "source": "http://www.blogger.com/feeds/5418523266420217528/posts/default/7042374968521645793",
+          "type": "text/html"
+        },
+        "gd$extendedProperty": [
+          {
+            "name": "blogger.itemClass",
+            "value": "pid-1251053387"
+          },
+          {
+            "name": "blogger.displayTime",
+            "value": "August 11, 2024 at 12:02 AM"
+          }
+        ]
+      }
+    ]
+  }
+}
